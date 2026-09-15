@@ -91,20 +91,9 @@ Arquivo sugerido: `veiculos.c`
 - Laços de repetição
 - Condicionais
 
-## Organização sugerida
-
-```text
-estudos/
-├── alunos.c
-├── clientes.c
-├── funcionarios.c
-├── produtos.c
-├── livros.c
-├── veiculos.c
-└── README.md
-
 ## Como executar
 
+```text
 Compile um arquivo `.c` com:
 
 ```bash
